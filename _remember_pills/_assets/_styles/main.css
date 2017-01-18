@@ -1,0 +1,80 @@
+.navbar-inverse {
+	color: #4CAF50;
+}
+
+.navbar-text > a {
+ 	padding-top: 50px;
+    color: #ecf0f1;
+    text-decoration: none;
+}
+.navbar-text-fixed-top > a {
+    color: #ecf0f1;
+    text-decoration: none;
+    font-size: medium;
+}
+body {
+    padding-top: 70px;
+    padding-bottom: 100px;
+    
+}
+#container1 {
+/*	border: 3.1px solid cyan;*/
+}
+.navbar-header {
+/*	border: 3.1px solid red;*/
+	width: 100%;
+}
+#parent {
+/*	border: 3.1px solid yellow;	*/
+	width: 100%;
+	margin: 0 auto;
+}
+#centertextgroup {
+	text-align: center; 
+	color: white; 
+	/*border: 3.1px solid green;*/ 
+	font-size: large;
+	width: 35%;
+	padding-top: 0px;
+}
+.firstitem {
+	text-align: center;
+}
+.seconditem {
+	padding-left: 23% !important;
+}
+.thirditem {
+	padding-left: 23% !important;
+}
+#container2 {
+	position: relative;
+/*	border: 3.1px solid blue;*/
+	top: 25px;
+}
+#linkscontainer {
+	padding-left: 135px;
+}
+#NewMemberAlerts > p {
+	font-size: large;
+}
+#MemberLogin {
+	font-size: large;
+}
+#GroupPracticeLogin {
+	font-size: large;
+}
+#Contact {
+	font-size: large;
+}
+#container3 {
+/*	border: 3.1px solid white;*/
+}
+.jumbotron {
+	background-color: #f1f1f1 !important;	
+}
+#grouppracticelogin {
+	
+}
+
+
+
